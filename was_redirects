@@ -1,3 +1,0 @@
-# Redirects from what the browser requests to what we serve
-/install.sh     https://raw.githubusercontent.com/neilotoole/sq/master/install.sh   301
-/wubble         https://google.com                                                  301
