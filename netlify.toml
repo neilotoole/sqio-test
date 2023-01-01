@@ -15,3 +15,13 @@
 
   [plugins.inputs]
     enable = false
+
+[[redirects]]
+  from = "/install.sh"
+  to = "https://raw.githubusercontent.com/neilotoole/sq/master/install.sh"
+  status = 301
+
+[[redirects]]
+  from = "/wubble"
+  to = "https://sq.io"
+  status = 301
